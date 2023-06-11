@@ -1,6 +1,4 @@
-/* *{
-    overflow: hidden;
-}  */
+
 
 @import url('https://fonts.googleapis.com/css2?family=Berkshire+Swash&family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 *{
@@ -31,7 +29,7 @@ main{
 	display: flex;
     justify-content: center;
     align-items: center;
-    min-height: 50vh;
+    min-height: 70vh;
 	
   }
   .box{
